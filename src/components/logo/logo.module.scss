@@ -1,0 +1,8 @@
+@use '../../styles/variables' as v;
+
+.logo {
+  color: v.$primary;
+  font-size: 100px;
+  font-weight: light;
+  letter-spacing: -1.5px;
+}
