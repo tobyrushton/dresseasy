@@ -1,7 +1,7 @@
 import 'server-only'
 import { Quicksand } from 'next/font/google'
 import { FC } from 'react'
-import styles from './Logo.module.scss'
+import styles from './logo.module.scss'
 
 const quicksand = Quicksand({ subsets: ['latin'] })
 
